@@ -2,20 +2,13 @@
 
 Here are some of my side projects:
 - Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](https://ademsa.github.io/browser-dashboard)
+  
+  <em>Detect and display browser specs/plugins/fonts and features</em>
+  
 - UpOrDown: [Backend](https://github.com/ademsa/upordown), [Web](https://github.com/ademsa/upordown-web)
+
+  <em>Detect if endpoint and related urls (links, scripts, etc.) load fine</em>
+
 - Go Issue Tracker: [Backend](https://github.com/ademsa/go-issue-tracker), [Web](https://github.com/ademsa/go-issue-tracker-web)
 
-<!--
-**ademsa/ademsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <em>A very basic Issue Tracker built using Go and following principles from Uncle Bob's Clean Architecture</em>
