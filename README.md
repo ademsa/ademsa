@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 Here are some of my side projects:
-- Go Issue Tracker: [Backend](https://github.com/ademsa/go-issue-tracker), [Web](https://github.com/ademsa/go-issue-tracker-web)
+- Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](https://ademsa.github.io/browser-dashboard)
 - UpOrDown: [Backend](https://github.com/ademsa/upordown), [Web](https://github.com/ademsa/upordown-web)
+- Go Issue Tracker: [Backend](https://github.com/ademsa/go-issue-tracker), [Web](https://github.com/ademsa/go-issue-tracker-web)
 
 <!--
 **ademsa/ademsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
