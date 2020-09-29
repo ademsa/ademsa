@@ -5,6 +5,10 @@ Here are some of my side projects:
   
   <em>Detect and display browser specs/plugins/fonts and features</em>
   
+- Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ademsa.github.io/web-page-data)
+  
+  <em>Analyze and extract data from HTML page source</em>
+  
 - UpOrDown: [Backend](https://github.com/ademsa/upordown), [Web](https://github.com/ademsa/upordown-web)
 
   <em>Detect if endpoint and related urls (links, scripts, etc.) load fine</em>
