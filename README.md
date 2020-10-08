@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 Here are some of my side projects:
-- Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](https://ademsa.github.io/browser-dashboard)
+- Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](https://ademsa.github.io/browser-dashboard) 🌍
   
   <em>Detect and display browser specs/plugins/fonts and features</em>
   
-- Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ademsa.github.io/web-page-data)
+- Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ademsa.github.io/web-page-data) 🌍
   
   <em>Analyze and extract data from HTML page source</em>
   
@@ -16,3 +16,7 @@ Here are some of my side projects:
 - Go Issue Tracker: [Backend](https://github.com/ademsa/go-issue-tracker), [Web](https://github.com/ademsa/go-issue-tracker-web)
 
   <em>A very basic Issue Tracker built using Go and following principles from Uncle Bob's Clean Architecture</em>
+  
+  - FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker)
+
+  <em>A very basic Issue Tracker REST API built using FastAPI </em>
