@@ -17,6 +17,6 @@ Here are some of my side projects:
 
   <em>A very basic Issue Tracker built using Go and following principles from Uncle Bob's Clean Architecture</em>
   
-  - FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker)
+ - FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker)
 
   <em>A very basic Issue Tracker REST API built using FastAPI </em>
