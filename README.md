@@ -7,7 +7,7 @@ Here are some of my side projects:
 
 - Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](https://ademsa.github.io/browser-dashboard) 🌍
   
-  <em>Detect and display browser specs/plugins/fonts and features</em>
+  <em>Detect and display browser specs, plugins, fonts and features</em>
   
 - Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ademsa.github.io/web-page-data) 🌍
   
