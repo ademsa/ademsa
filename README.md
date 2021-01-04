@@ -22,4 +22,4 @@ FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker
   
 and some [more](https://github.com/ademsa?tab=repositories)
 
-If you like any of the projects, please ⭐️ repository. Thanks 🚀
+If you like any project, please ⭐️ repository. Thanks 🚀
