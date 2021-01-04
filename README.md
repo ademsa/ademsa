@@ -21,3 +21,5 @@ FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker
 <em>A very basic Issue Tracker REST API built using FastAPI </em>
   
 and some [more](https://github.com/ademsa?tab=repositories)
+
+If you like something, please ⭐️ repository. Thanks 🚀
