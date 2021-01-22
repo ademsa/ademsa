@@ -13,9 +13,6 @@ Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ad
   
 UpOrDown: [Backend](https://github.com/ademsa/upordown), [Web](https://github.com/ademsa/upordown-web)  
 <em>Detect if endpoint and related urls (links, scripts, etc.) load fine</em>
-
-Go Issue Tracker: [Backend](https://github.com/ademsa/go-issue-tracker), [Web](https://github.com/ademsa/go-issue-tracker-web)  
-<em>A very basic Issue Tracker built using Go and following principles from Uncle Bob's Clean Architecture</em>
   
 FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker)  
 <em>A very basic Issue Tracker REST API built using FastAPI </em>
