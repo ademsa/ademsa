@@ -11,12 +11,6 @@ Browser Dashboard: [Web](https://github.com/ademsa/browser-dashboard), [Demo](ht
 Web Page Data: [Web](https://github.com/ademsa/web-page-data), [Demo](https://ademsa.github.io/web-page-data)  
 <em>Analyze and extract data from HTML page source</em>
   
-UpOrDown: [Backend](https://github.com/ademsa/upordown), [Web](https://github.com/ademsa/upordown-web)  
-<em>Detect if endpoint and related urls (links, scripts, etc.) load fine</em>
-  
-FastAPI Issue Tracker: [Backend](https://github.com/ademsa/fastapi-issue-tracker)  
-<em>A very basic Issue Tracker REST API built using FastAPI </em>
-  
 and some [more](https://github.com/ademsa?tab=repositories)
 
-If you like any project, please ⭐️ repository. Thanks 🚀
+If you see something you like please ⭐️ it. 🚀
