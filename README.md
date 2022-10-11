@@ -1,3 +1,3 @@
 ### Move fast and make things happen 🚀
 
-NEW: [NiceWebApp Collection](https://niceweb.app) - Small useful apps
+NEW: [Nice Web App](https://niceweb.app) - Collection of small but useful apps
